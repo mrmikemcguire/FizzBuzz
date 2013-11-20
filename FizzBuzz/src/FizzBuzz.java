@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+//	This is a change that is for GitHub practice
 public class FizzBuzz
 	{
 	static ArrayList<String> listToPrint = new ArrayList();
